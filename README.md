@@ -1,3 +1,3 @@
- #TinDog Starting Files
+ # TinDog Project
 
- ![Dicee_Game](https://github.com/DurmusFurkanOzkan/TindogProject/blob/main/Tindog_Gif.gif)
+ ![TinDog Project](https://github.com/DurmusFurkanOzkan/TindogProject/blob/main/Tindog_Gif.gif)
